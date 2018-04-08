@@ -15,7 +15,7 @@ How to use:
   
 Available shortcuts: (2018-04-07)
 
-  alt+1 = theta
+  alt+1 = &theta;
 
   alt+2 = mu
 
