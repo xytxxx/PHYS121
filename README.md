@@ -3,21 +3,33 @@ An AutoHotKey script for students using Pearson's Mastering Physics
 
 *Windows Only*
 
-alt+1 = theta
+*Warning: using any of the shortcuts clears your clipboard. Please do not store anything valuable in your clipboard.*
 
-alt+2 = mu
+How to use:
+  
+  1. Download and run "PHYS121.exe"
+  
+  2. A green "H" icon should appear on your bottom left corner. If so, you are good to go.
+  
+  3. To exit, right-click on the "H" icon and click "exit".
+  
+Available shortcuts: (2018-04-07)
 
-alt+3 = pi
+  alt+1 = theta
 
-alt+6 = square root
+  alt+2 = mu
 
-alt+5 = hat
+  alt+3 = pi
 
-alt+s = square
+  alt+6 = square root
 
-alt+w = omega
+  alt+5 = hat
 
-alt+a = alpha
+  alt+s = square
 
-alt+d = delta
+  alt+w = omega
+
+  alt+a = alpha
+
+  alt+d = delta
 
