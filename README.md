@@ -15,21 +15,14 @@ How to use:
   
 Available shortcuts: (2018-04-07)
 
-  alt+1 = &theta;
 
-  alt+2 = mu
-
-  alt+3 = pi
-
-  alt+6 = square root
-
-  alt+5 = hat
-
-  alt+s = square
-
-  alt+w = omega
-
-  alt+a = alpha
-
-  alt+d = delta
+alt+1 = theta ( &theta; )<br>
+        alt+2 = mu  ( &mu; )<br>
+        alt+3 = pi ( &pi; )<br>
+        alt+6 = square root ( &radic;  )<br>
+        alt+5 = hat ( <sup>^</sup> )<br>
+        alt+s = square ( x<sup>2</sup> )<br>
+        alt+w = omega ( &omega; )<br>
+        alt+a = alpha ( &alpha; )<br>
+        alt+d = delta ( &Delta; )<br><br>
 
